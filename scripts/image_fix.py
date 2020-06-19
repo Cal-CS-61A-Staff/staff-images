@@ -1,4 +1,3 @@
-
 from sys import argv
 from os import listdir
 from simpleimage import SimpleImage
